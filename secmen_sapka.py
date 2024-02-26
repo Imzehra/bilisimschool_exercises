@@ -1,0 +1,57 @@
+import random 
+liste = ["slytherin","griyfindor","hufflepuff","ravenclaw"]
+secmen = random.choice(liste)
+print (secmen)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
